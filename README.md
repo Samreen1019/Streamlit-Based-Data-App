@@ -25,4 +25,4 @@ It allows users to enter their name and displays a greeting message.
 https://samreen1019-streamlit-based-data-app-app-zl9rvd.streamlit.app/
 
 ## GitHub Repository
-https://github.com/Samreen1019/Streamlit-Based-Data-App
+https://github.com/Samreen1019/ML-Practical-/tree/main/Practical-15-Streamlit
